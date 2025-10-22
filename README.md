@@ -1,0 +1,2 @@
+# azicoin
+azicoin
